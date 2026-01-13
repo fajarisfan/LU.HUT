@@ -33,7 +33,7 @@ If you want to test the current system audit module:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/lu-hut.git](https://github.com/yourusername/lu-hut.git)
+git clone [https://github.com/yourusername/lu-hut.git]
 
 # Enter the command center
 cd lu-hut
@@ -47,4 +47,5 @@ planned commands (coming soon)
 npm install -g lu-hut-core
 
 # Automated system coordination
+
 luhut --coordinate --all
